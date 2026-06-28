@@ -8,6 +8,8 @@ Created by **Dorfus**.
 
 When you install this, make sure you install all of the images as well. Created a folder in your plugin folder and name it Images and place all images inside this folder. The plugin uses them for the UI and no need to do anything else with it. (the images were too big to add in a single file for github unfortunately)
 
+After you put the MQ@HealParse into your plugin folder and the Image folder has been completed, in game on your driver type /healparse overlay on (this will pull up the overlay UI and you can access the full UI from hitting the ghost button on the mini UI)
+
 ---
 
 # Features
