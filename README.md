@@ -4,11 +4,12 @@ HealTracker is a powerful all-in-one healing, DPS, tanking, history, and burn ti
 
 Originally created to provide real-time raid and group analytics similar to GamParse while remaining fully integrated inside EverQuest, HealTracker offers live overlays, historical analysis, encounter comparisons, burn tracking, death analysis, spell usage breakdowns, and much more.
 
-Created by **Dorfus**.
 
 When you install this, make sure you install all of the images as well. Created a folder in your plugin folder and name it Images and place all images inside this folder. The plugin uses them for the UI and no need to do anything else with it. (the images were too big to add in a single file for github unfortunately)
 
 After you put the MQ@HealParse into your plugin folder and the Image folder has been completed, in game on your driver type /healparse overlay on (this will pull up the overlay UI and you can access the full UI from hitting the ghost button on the mini UI)
+
+Created by **Dorfus**.
 
 ---
 
