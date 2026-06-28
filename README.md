@@ -52,7 +52,7 @@ Track:
 
 Hover over graphs to inspect healing values at any point during the encounter.
 
-![Healing Tab](screenshots/heals_main.png)
+![Healing Tab](screenshots/heals_main_ui.png)
 
 ---
 
