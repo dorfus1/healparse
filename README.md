@@ -6,6 +6,8 @@ Originally created to provide real-time raid and group analytics similar to GamP
 
 Created by **Dorfus**.
 
+When you install this, make sure you install all of the images as well. Created a folder in your plugin folder and name it Images and place all images inside this folder. The plugin uses them for the UI and no need to do anything else with it. (the images were too big to add in a single file for github unfortunately)
+
 ---
 
 # Features
