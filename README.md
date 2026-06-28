@@ -27,7 +27,7 @@ HealTracker continuously parses combat and displays live raid/group damage in re
 - Spike damage detection
 - Tank damage tracking
 
-![DPS Tab](screenshots/dps_main.png)
+![DPS Tab](screenshots/dps_main_ui.png)
 
 ---
 
